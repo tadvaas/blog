@@ -9,12 +9,14 @@ Social media apps are designed to keep you scrolling. By removing them:
 - You eliminate mindless checking.
 - You save your focus for things that matter.
 - You can still check your socials—but only on a computer. 
+
 This ensures you engage with social media intentionally, not impulsively.
 
 ### Limit Communication Apps
 Keep only two communication methods:
 - **WhatsApp** for cross-platform messaging.
 - **iMessage** because it's a default app.
+
 Having fewer ways to communicate reduces interruptions and the pressure to respond instantly.
 
 ### Get Rid of Email Apps
