@@ -55,7 +55,7 @@ The App Library is a default screen from Apple. While you can’t disable it, av
 Emails are another form of attention theft. Let’s declutter and streamline your inbox.
 
 - In your email settings, create a folder called **Ads**.
-- Filter all emails containing the word "**unsubscribe**" to go directly to this folder.
+- Filter all emails containing the word "**unsubscribe**" in the body to go directly to this folder.
 - Ensure these emails **skip your inbox** and are automatically **marked as read**.
 
 Promotional emails are subtle traps—they’re designed to sell you something, even if it’s not immediate. By filtering them out, you avoid constant exposure to adverts and create a calmer inbox experience.
@@ -63,9 +63,9 @@ Promotional emails are subtle traps—they’re designed to sell you something, 
 ## Why Are We Doing This?
 The steps above aren’t just about decluttering your phone—they’re about reclaiming your focus, time, and mental space. Here’s the reasoning:
 
-- Social Media: Checking it on a computer makes the experience intentional, not habitual.
-- Notifications: By silencing them, you remove external triggers and distractions.
-- App Organisation: A structured phone keeps you focused and discourages mindless browsing.
-- Email: Promotional emails are attention traps; filtering them ensures they don’t waste your time.
+- **Social Media**: Checking it on a computer makes the experience intentional, not habitual.
+- **Notifications**: By silencing them, you remove external triggers and distractions.
+- **App Organisation**: A structured phone keeps you focused and discourages mindless browsing.
+- **Email**: Promotional emails are attention traps; filtering them ensures they don’t waste your time.
 
 Your iPhone should serve you—not the other way around. By removing distracting apps, silencing notifications, organising your screens, and fixing your email, you can break free from the phone trap. These steps are simple but powerful and will help you regain control over your attention and time.
