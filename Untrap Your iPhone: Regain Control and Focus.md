@@ -13,8 +13,8 @@ This ensures you engage with social media intentionally, not impulsively.
 
 ### Limit Communication Apps
 Keep only two communication methods:
-- WhatsApp for cross-platform messaging.
-- iMessage because it's a default app.
+- **WhatsApp** for cross-platform messaging.
+- **iMessage** because it's a default app.
 Having fewer ways to communicate reduces interruptions and the pressure to respond instantly.
 
 ### Get Rid of Email Apps
