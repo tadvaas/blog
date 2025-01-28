@@ -1,20 +1,23 @@
-# Remove the Apps That Steal Your Time
+# Untrap Your iPhone: Regain Control and Focus
+Your iPhone is an incredible tool—but let’s face it, it’s also a powerful trap for your attention. Notifications, social media, and endless apps are all designed to steal your focus. If you’re tired of feeling like your phone controls you, this guide is for you. Let’s untrap your iPhone and take back control with a simple, intentional approach.
+
+## Remove the Apps That Steal Your Time
 Your phone doesn’t need to do everything. Simplify it by removing apps that distract you the most.
 
-## Say Goodbye to Social Media Apps
+### Say Goodbye to Social Media Apps
 Social media apps are designed to keep you scrolling. By removing them:
 - You eliminate mindless checking.
 - You save your focus for things that matter.
 - You can still check your socials—but only on a computer. 
 This ensures you engage with social media intentionally, not impulsively.
 
-## Limit Communication Apps
+### Limit Communication Apps
 Keep only two communication methods:
 - WhatsApp for cross-platform messaging.
 - iMessage because it's a default app.
 Having fewer ways to communicate reduces interruptions and the pressure to respond instantly.
 
-## Get Rid of Email Apps
+### Get Rid of Email Apps
 Email is one of the most distracting tools on your phone. Here’s why it doesn’t belong there:
 - Emails interrupt your day with unnecessary stress.
 - Checking email on a computer forces you to schedule it intentionally.
