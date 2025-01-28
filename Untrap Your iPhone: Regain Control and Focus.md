@@ -54,9 +54,9 @@ The App Library is a default screen from Apple. While you can’t disable it, av
 ## Fix Your Email
 Emails are another form of attention theft. Let’s declutter and streamline your inbox.
 
-- In your email settings, create a folder called Ads.
-- Filter all emails containing the word "unsubscribe" to go directly to this folder.
-- Ensure these emails skip your inbox and are automatically marked as read.
+- In your email settings, create a folder called **Ads**.
+- Filter all emails containing the word "**unsubscribe**" to go directly to this folder.
+- Ensure these emails **skip your inbox** and are automatically **marked as read**.
 
 Promotional emails are subtle traps—they’re designed to sell you something, even if it’s not immediate. By filtering them out, you avoid constant exposure to adverts and create a calmer inbox experience.
 
