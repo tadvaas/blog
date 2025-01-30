@@ -50,7 +50,7 @@ Your iPhone needs structure. Here’s how to organise it for simplicity and focu
 This is where essential apps and organised folders live. Keep it minimal to avoid overwhelm.
 
 <p align="left">
-  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" height="30%">
 </p>
 
 ### Testing Screen: For New Apps
