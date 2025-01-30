@@ -49,7 +49,11 @@ Your iPhone needs structure. Here’s how to organise it for simplicity and focu
 ### Home Screen: Your Main Hub
 This is where essential apps and organised folders live. Keep it minimal to avoid overwhelm.
 
-![First Screen](https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png)
+<p align="center">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
+</p>
 
 ### Testing Screen: For New Apps
 Every new app goes here for evaluation. During the testing stage, be extremely critical. Remember: Apps are built to sell you something—they don’t have your best interests at heart. After a few days, decide, does the app genuinely add value? If yes, move it to the home screen. If not, delete it immediately.
