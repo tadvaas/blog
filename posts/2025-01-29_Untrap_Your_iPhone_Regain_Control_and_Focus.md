@@ -87,3 +87,7 @@ The steps above aren’t just about decluttering your phone—they’re about re
 - **Email**: Promotional emails are attention traps; filtering them ensures they don’t waste your time.
 
 Your iPhone should serve you—not the other way around. By removing distracting apps, silencing notifications, organising your screens, and fixing your email, you can break free from the phone trap. These steps are simple but powerful and will help you regain control over your attention and time.
+
+## Questions
+
+- **What if I have a kid in school and have an app installed on my phone and receive emails, especially the ones with accident reports, aren't they essential?** Well, you don't have an email on your phone already, so that's not going to bother you. Delete the school app from your phone and dedicate a time of day when you will check the school portal for any notices that you might need to attend to. I found that 80% of the stuff school sends out is marketing and non-essential. In case you are worried that you will miss that your kid grazed a knee, believe me, they will call you if anything is urgent enough.
