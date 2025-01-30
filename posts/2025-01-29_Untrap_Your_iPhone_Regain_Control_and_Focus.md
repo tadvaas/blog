@@ -1,7 +1,9 @@
 # Untrap Your iPhone: Regain Control and Focus
 Your iPhone is an incredible tool—but let’s face it, it’s also a powerful trap for your attention. Notifications, social media, and endless apps are all designed to steal your focus. If you’re tired of feeling like your phone controls you, this guide is for you. Let’s untrap your iPhone and take back control with a simple, intentional approach.
 
-![In Chains](https://raw.githubusercontent.com/tadvaas/blog/refs/heads/main/resources/chains2.webp)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tadvaas/blog/refs/heads/main/resources/chains2.webp" width="30%">
+</p>
 
 ## 1. Remove the Apps That Steal Your Time
 Your phone doesn’t need to do everything. Simplify it by removing apps that distract you the most.
@@ -50,7 +52,7 @@ Your iPhone needs structure. Here’s how to organise it for simplicity and focu
 This is where essential apps and organised folders live. Keep it minimal to avoid overwhelm.
 
 <p align="left">
-  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" height="30%">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
 </p>
 
 ### Testing Screen: For New Apps
