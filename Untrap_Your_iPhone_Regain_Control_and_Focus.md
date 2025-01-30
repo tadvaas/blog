@@ -1,7 +1,7 @@
 # Untrap Your iPhone: Regain Control and Focus
 Your iPhone is an incredible tool—but let’s face it, it’s also a powerful trap for your attention. Notifications, social media, and endless apps are all designed to steal your focus. If you’re tired of feeling like your phone controls you, this guide is for you. Let’s untrap your iPhone and take back control with a simple, intentional approach.
 
-## Remove the Apps That Steal Your Time
+## 1. Remove the Apps That Steal Your Time
 Your phone doesn’t need to do everything. Simplify it by removing apps that distract you the most.
 
 ### Say Goodbye to Social Media Apps
@@ -25,7 +25,7 @@ Email is one of the most distracting tools on your phone. Here’s why it doesn�
 - Checking email on a computer forces you to schedule it intentionally.
 - Set alarms to remind yourself when to check email, whether it’s every 24 hours or at scheduled intervals during the day.
 
-## Disable All Notifications
+## 2. Disable All Notifications
 Notifications are the ultimate attention hijackers. To untrap your iPhone, you need to silence them all.
 
 ### Turn Off Everything
@@ -41,7 +41,7 @@ If you use an Apple Watch, keep it distraction-free as well:
 - Remove unused apps.
 - Stick to essential apps like Workouts and Now Playing (to skip ads during podcasts).
 
-## Organise Your iPhone with Three Screens
+## 3. Organise Your iPhone with Three Screens
 Your iPhone needs structure. Here’s how to organise it for simplicity and focus:
 
 ### Home Screen: Your Main Hub
@@ -53,7 +53,7 @@ Every new app goes here for evaluation. During the testing stage, be extremely c
 ### App Library: The Necessary Evil
 The App Library is a default screen from Apple. While you can’t disable it, avoid using it as much as possible. Treat it like a junk drawer—only go there when absolutely necessary.
 
-## Fix Your Email
+## 4. Fix Your Email
 Emails are another form of attention theft. Let’s declutter and streamline your inbox.
 
 - In your email settings, create a folder called **Ads**.
