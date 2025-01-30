@@ -51,8 +51,6 @@ This is where essential apps and organised folders live. Keep it minimal to avoi
 
 <p align="center">
   <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
-  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
-  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
 </p>
 
 ### Testing Screen: For New Apps
