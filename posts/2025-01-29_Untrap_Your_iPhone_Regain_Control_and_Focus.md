@@ -58,8 +58,16 @@ This is where essential apps and organised folders live. Keep it minimal to avoi
 ### Testing Screen: For New Apps
 Every new app goes here for evaluation. During the testing stage, be extremely critical. Remember: Apps are built to sell you something—they don’t have your best interests at heart. After a few days, decide, does the app genuinely add value? If yes, move it to the home screen. If not, delete it immediately.
 
+<p align="left">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6114.png" width="30%">
+</p>
+
 ### App Library: The Necessary Evil
 The App Library is a default screen from Apple. While you can’t disable it, avoid using it as much as possible. Treat it like a junk drawer—only go there when absolutely necessary.
+
+<p align="left">
+  <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6115.png" width="30%">
+</p>
 
 ## 4. Fix Your Email
 Emails are another form of attention theft. Let’s declutter and streamline your inbox.
