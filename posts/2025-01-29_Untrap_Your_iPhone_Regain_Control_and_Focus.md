@@ -49,7 +49,7 @@ Your iPhone needs structure. Here’s how to organise it for simplicity and focu
 ### Home Screen: Your Main Hub
 This is where essential apps and organised folders live. Keep it minimal to avoid overwhelm.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/tadvaas/blog/blob/main/resources/IMG_6113.png" width="30%">
 </p>
 
